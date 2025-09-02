@@ -1,0 +1,20 @@
+version: 2
+sources:
+  - name: raw
+    database: oroboro-dw
+    schema: bronze_raw
+    tables:
+      - name: user_user
+      - name: educator_classroomlearnermembership
+      - name: educator_classroom
+      - name: educator_classroom_educators
+      - name: educator_classroominvitation
+      - name: educator_classroominvitecode
+      - name: user_site
+      - name: user_partner
+      - name: user_partnerinvitecode
+      - name: action_userjoinsaction
+      - name: location_location
+      - name: location_location_address_components
+      - name: location_location_types
+      - name: widget_widgetuserapikey

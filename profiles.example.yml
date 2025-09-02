@@ -1,0 +1,11 @@
+oroboro_dw_profile:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: oroboro-dw
+      dataset: analytics_dev
+      threads: 4
+      timeout_seconds: 300
+      location: US

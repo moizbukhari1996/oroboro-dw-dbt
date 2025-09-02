@@ -1,0 +1,17 @@
+name: "user_base_project"
+version: "1.0.0"
+config-version: 2
+profile: "oroboro_dw_profile"
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+
+models:
+  user_base_project:
+    +materialized: view
+    intermediate:
+      +materialized: view
+      +tags: ["intermediate"]
+    marts:
+      +materialized: table
+      +tags: ["marts"]

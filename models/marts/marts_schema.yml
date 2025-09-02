@@ -1,0 +1,15 @@
+version: 2
+models:
+  - name: user_base
+    description: "One row per user + (optional) partner/site with resolved location fields"
+    columns:
+      - name: user_id
+        tests: [not_null]
+      - name: partner_id
+      - name: site_id
+      - name: city
+      - name: state
+      - name: country
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns: [user_id, partner_id, site_id]
